@@ -15,7 +15,7 @@ public class ListNode
 }
 
 
-public class Solution
+public class Solution2
 {
     public static ListNode RemoveNthLastNode(ListNode head, int n)
     {
